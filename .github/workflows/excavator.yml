@@ -1,3 +1,4 @@
+# Checks Shnapp's latest stable release and updates the Scoop manifest.
 name: Excavator
 
 on:
