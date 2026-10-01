@@ -2,9 +2,7 @@
 
 This is the owner-maintained [Scoop](https://scoop.sh) bucket for [Shnapp](https://shhnap.com), a Windows screenshot capture and annotation app.
 
-The first manifest will be published here after Shnapp v1.0.0 and its portable ZIP checksums are publicly available.
-
-Once published, install it with:
+Install Shnapp with:
 
 ```powershell
 scoop bucket add shnapp https://github.com/Zettersten/scoop-bucket
