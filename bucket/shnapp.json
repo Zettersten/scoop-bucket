@@ -1,16 +1,16 @@
 {
-    "version": "1.0.0",
+    "version": "1.0.2",
     "description": "Screenshot capture and annotation for Windows",
     "homepage": "https://shhnap.com",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/Zettersten/shhnap/releases/download/v1.0.0/Shnapp-win-x64.zip",
-            "hash": "fddf0cd3699e811e5e6e6b550cd1208952298b42d6b482ffa37fcdb9f6e67af2"
+            "url": "https://github.com/Zettersten/shhnap/releases/download/v1.0.2/Shnapp-win-x64.zip",
+            "hash": "28e16e9461e3d5c9c448e488ffa8948f0e8ebb3b76996e1e9fab4605b459621c"
         },
         "arm64": {
-            "url": "https://github.com/Zettersten/shhnap/releases/download/v1.0.0/Shnapp-win-arm64.zip",
-            "hash": "161e54a384b3255a258ee48296057780424088ba62d0bcb81a2d1b7714d28f15"
+            "url": "https://github.com/Zettersten/shhnap/releases/download/v1.0.2/Shnapp-win-arm64.zip",
+            "hash": "ee50420e6cdb91f544b86e484b4ade1b57625666d8cf6fe420a028de171f246f"
         }
     },
     "shortcuts": [
